@@ -54,4 +54,4 @@ Nil
 ## Acknowledgements
 
 * [adam-p](https://github.com/adam-p) for the useful [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "markdown for writing github readme")
-* [PurpleBooth](https://github.com/PurpleBooth)for the [Readme template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md "readme template")
+* [PurpleBooth](https://github.com/PurpleBooth) for the [Readme template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md "readme template")
