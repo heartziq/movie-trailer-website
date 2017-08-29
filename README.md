@@ -4,7 +4,7 @@ A website that showcases my favourite movies
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Download/Clone the repo on local machine. Using python, run entertainment_center.py located at the root folder.
 
 ### Prerequisites
 
@@ -12,11 +12,6 @@ These instructions will get you a copy of the project up and running on your loc
 2. A browser e.g. Chrome, Firefox
 3. [Python 2.7x](https://www.python.org/downloads/ "Python download page") installed on your local machine
 
-
-
-```
-Give examples
-```
 
 ### Installing
 
@@ -32,18 +27,6 @@ run entertainment_center.py
 
 ```
 see result from Python 2.7 IDLE
-```
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
 ```
 
 ### PEP8 Guideline Style
@@ -71,4 +54,4 @@ Nil
 ## Acknowledgements
 
 * [adam-p] (https://github.com/adam-p) [for the useful Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "markdown for writing github readme")
-* [PurpleBooth](https://github.com/PurpleBooth)[for the Readme template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md "readme template")
+* [PurpleBooth] (https://github.com/PurpleBooth)[for the Readme template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md "readme template")
