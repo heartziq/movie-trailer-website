@@ -1,6 +1,7 @@
 import media
 import fresh_tomatoes
 
+# creating movie objects
 the_intership = media.Movie("The Internship",
                             "https://upload.wikimedia.org/wikipedia/en/e/ed/"
                             "The-internship-poster.jpg",
@@ -31,7 +32,9 @@ nightcrawler = media.Movie("Nightcrawler",
                            "ghtcrawlerfilm.jpg",
                            "https://www.youtube.com/watch?v=u1uP_8VJkDQ")
 
+# group them up in a list data structure
 movies = [the_intership, batman, spiderman,
           guardians_galaxy, gone_girl, nightcrawler]
 
+# launch webpage
 fresh_tomatoes.open_movies_page(movies)
