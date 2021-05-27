@@ -46,11 +46,6 @@ Nil
 * [Python](https://www.python.org/downloads/) - programming language used
 * [fresh_tomatoes.py](https://github.com/udacity/ud036_StarterCode) - source code to generate the html content
 
-
-## Authors
-
-* **Hadziq Sulaiman** - [heartziq](https://github.com/heartziq)
-
 ## Acknowledgements
 
 * [adam-p](https://github.com/adam-p) for the useful [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "markdown for writing github readme")
